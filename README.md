@@ -4,7 +4,7 @@ This code allows you to create a group chat using the nc (netcat) utility.
 
 ### Usage
 
-- clone https://github.com/vavasimioki/net-cat.git
+-  clone https://github.com/vavasimioki/net-cat.git
 
 - " go run ./cmd . " or go run ./cmd 2525
 
